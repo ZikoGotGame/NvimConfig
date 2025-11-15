@@ -1,4 +1,4 @@
-vim.cmd.colorscheme("tokyonight")
+vim.cmd.colorscheme("oasis-abyss")
 
 -- This will run last in the setup process.
 -- This is just pure lua so anything that doesn't

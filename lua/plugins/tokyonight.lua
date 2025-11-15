@@ -5,7 +5,7 @@ return {
   config = function()
     require("tokyonight").setup({
       -- optional: customize tokyoNight here
-      style = "storm", -- options: storm, night, day
+      style = "night", -- options: storm, night, day
     })
   end,
 }
