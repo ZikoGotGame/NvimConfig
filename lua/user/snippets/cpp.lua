@@ -5,7 +5,7 @@ local t = ls.text_node
 return {
   s("cppt", {
     t({
-      "#include<bits/stdc++.h>",
+      "#include <bits/stdc++.h>",
       "",
       "using namespace std;",
       "",
