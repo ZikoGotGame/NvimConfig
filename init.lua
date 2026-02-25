@@ -29,4 +29,4 @@ if not pcall(require, "lazy") then
 end
 
 require "lazy_setup"
-require "polish"
+vim.api.nvim_set_hl(0, "LineNr", { bg = "none" })
